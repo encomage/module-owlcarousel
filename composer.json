@@ -25,15 +25,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Encomage\\Slider\\": ""
+            "Encomage\\OwlCarousel\\": ""
         }
-    },
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Encomage/Slider"
-            ]
-        ]
     }
 }
